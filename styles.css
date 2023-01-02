@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(96, 99, 143);
+    text-decoration-color: black;
+    text-align: center;
+}
+
+h1{
+    font-size: 400%;
+    margin-top: 2.5%;
+    margin-bottom: 2px;
+}
+
+img {
+    align-items: center; 
+    max-width: 20%;
+    max-height: 20%;
+}
+
+ul {
+    text-align: left;
+    font-size: large;
+    line-height: 180%;
+}
